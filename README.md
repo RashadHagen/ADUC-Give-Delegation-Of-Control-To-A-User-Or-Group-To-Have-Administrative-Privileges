@@ -33,4 +33,143 @@ This project goes over how to give delegation of control to a user or group usin
 ⏹️ Project Walk-Through:</h2>
  <br/>
 
-<div
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>NOTE: Delegation Control = give someone limited access on active directory.</b></span>  
+<br/><br/><br/><br/>
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Open: Active Directory Users and Computers.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The domain name  (OR) an organizational unit  (OR) folder.  Ex: The domain name.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/3BzYzXH.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/1UbG0mv.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Yl1PR8a.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Cf0orX6.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Add.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Type: The user or groups name in the bottom box: Enter the object names to select.  Click: Check Names.  Click: OK.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/3BzYzXH.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/1UbG0mv.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/uTjvxsx.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/zEXfK2Z.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/CdLqdzz.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Next.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Select: What access you want the user or group to have (click: the correct box(es)), (ex: reset user passwords…).</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/uTjvxsx.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/zEXfK2Z.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/CdLqdzz.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: Finish.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
