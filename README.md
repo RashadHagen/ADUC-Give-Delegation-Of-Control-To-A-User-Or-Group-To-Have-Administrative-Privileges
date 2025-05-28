@@ -57,15 +57,15 @@ This project goes over how to give delegation of control to a user or group usin
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/3BzYzXH.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/1UbG0mv.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Oy3lcjx.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/j6kM8yy.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/Yl1PR8a.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/Cf0orX6.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/QTxjWoo.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/ViSwngX.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -78,8 +78,8 @@ This project goes over how to give delegation of control to a user or group usin
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/0JJbApS.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/FiBzNWx.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -92,8 +92,8 @@ This project goes over how to give delegation of control to a user or group usin
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/j5ZJTGr.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/ojhQgcf.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -106,21 +106,21 @@ This project goes over how to give delegation of control to a user or group usin
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/3BzYzXH.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/1UbG0mv.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/l23mqPh.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/GrMpTqe.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/uTjvxsx.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/zEXfK2Z.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/K7vgIwP.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/q8xRmN3.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/CdLqdzz.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/eV3EQML.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -133,8 +133,8 @@ This project goes over how to give delegation of control to a user or group usin
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/Otfoped.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/irpJt20.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
@@ -147,14 +147,14 @@ This project goes over how to give delegation of control to a user or group usin
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/uTjvxsx.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/zEXfK2Z.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/7b7OgLd.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/kOdn5q6.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/CdLqdzz.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/PwvgI6l.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -167,8 +167,8 @@ This project goes over how to give delegation of control to a user or group usin
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/txb6Mot.png" height="50%" width="100%" /></td>
-    <td><img src="https://imgur.com/AcOJlQA.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/g5EGGxc.png" height="50%" width="100%" /></td>
+    <td><img src="https://imgur.com/TMbpJnV.png" height="50%" width="100%" /></td>
   </tr>
 </table>
 
