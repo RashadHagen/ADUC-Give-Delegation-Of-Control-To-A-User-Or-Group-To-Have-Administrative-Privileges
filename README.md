@@ -52,7 +52,7 @@ This project goes over how to give delegation of control to a user or group usin
 
 
 <div style="text-align:center;">
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The domain name  (OR) an organizational unit  (OR) folder.  Ex: The domain name.</b></span>  
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Right-Click: The domain name  (OR) an organizational unit  (OR) folder.  Ex: The domain name.  Click: Delegate Control.</b></span>  
 <br/>
 
 <table>
